@@ -27,3 +27,8 @@
 ## Summary 
 
 **This has helped me understand the subsetting syntax of both loc and iloc methods tha is used in `Selection, Slicing, Indexing, and Filtering`. But the most importnat thing to remember is `iloc` needs integer values and (i for integer) whie `.loc` needs label values.**
+
+
+## Resources 
+
+[TowadsDataScience](https://towardsdatascience.com/23-efficient-ways-of-subsetting-a-pandas-dataframe-6264b8000a77) 
