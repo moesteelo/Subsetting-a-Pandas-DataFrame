@@ -17,3 +17,9 @@
 
 <img src="img/indexing .png" >
 
+## Using the Filtering Method
+
+<img src="img/Filtering .png" >
+
+<img src="img/Filtering 2.png" >
+<img src="img/Filtering 3.png" >
