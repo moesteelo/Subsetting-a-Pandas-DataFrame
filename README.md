@@ -23,3 +23,7 @@
 
 <img src="img/Filtering 2.png" >
 <img src="img/Filtering 3.png" >
+
+## Summary 
+
+**This has helped me understand the subsetting syntax of both loc and iloc methods tha is used in `Selection, Slicing, Indexing, and Filtering`. But the most importnat thing to remember is `iloc` needs integer values and (i for integer) whie `.loc` needs label values.**
